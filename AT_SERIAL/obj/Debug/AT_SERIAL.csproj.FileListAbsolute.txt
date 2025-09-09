@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\bin\Debug\AT_SERIAL.exe.config
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\bin\Debug\AT_SERIAL.exe
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\bin\Debug\AT_SERIAL.pdb
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\obj\Debug\AT_SERIAL.Main_form.resources
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\obj\Debug\AT_SERIAL.Properties.Resources.resources
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\obj\Debug\AT_SERIAL.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\obj\Debug\AT_SERIAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\obj\Debug\AT_SERIAL.exe
+C:\Users\USER\source\repos\AT_SERIAL\AT_SERIAL\obj\Debug\AT_SERIAL.pdb
