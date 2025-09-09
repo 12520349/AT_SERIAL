@@ -1,2 +1,1 @@
-Giao diện chương trình
-![[Pasted image 20250909145045.png]]
+![Giao diện chương trình](./Pasted%20image%2020250909145045.png)
